@@ -1,0 +1,10 @@
+# .---------------- minute (0 - 59)
+# |     .------------- hour (0 - 23)
+# |     |       .---------- day of month (1 - 31)
+# |     |       |       .------- month (1 - 12) OR jan,feb,mar,apr ...
+# |     |       |       |       .---- day of week (0 - 6) (Sunday=0 or 7)  OR mon,tue...
+# |     |       |       |       |
+# *     *       *       *       *       command to be executed
+
+  */5   *       *       *       *       /opt/nest/pull_thermostat.py >/dev/null 2>&1
+  */5   *       *       *       *       /opt/nest/graph_rrd.sh >/dev/null 2>&1
