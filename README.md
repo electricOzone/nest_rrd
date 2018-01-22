@@ -15,6 +15,6 @@ Pulls data from Nest &amp; Wunderground APIs and graphs it using RRD.
 
 Screenshots:
 
-![alt text](https://raw.githubusercontent.com/electricOzone/nest_rrd/master/nest_rrd_home.png)
+![alt text](https://raw.githubusercontent.com/electricOzone/nest_rrd/master/images/nest_rrd_home.png)
 
-![alt text](https://raw.githubusercontent.com/electricOzone/nest_rrd/master/nest_rrd_history.png)
+![alt text](https://raw.githubusercontent.com/electricOzone/nest_rrd/master/images/nest_rrd_history.png)
